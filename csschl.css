@@ -1,6 +1,6 @@
 @media only screen and (min-width : 1224px) {
 body{
-	background-image: url(https://i3.guns.ru/forums/icons/forum_pictures/030223/30223541_30361.jpg);
+	background-color:#56575A;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -77,7 +77,7 @@ h1{
 }
 @media only screen and (min-width : 321px) and (max-width: 1223px) {
 	body{
-	background-image: url(https://i3.guns.ru/forums/icons/forum_pictures/030223/30223541_30361.jpg);
+	background-color:#56575A;
 	background-repeat: no-repeat;
 	background-size: cover;
 			}
